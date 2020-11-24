@@ -1,0 +1,16 @@
+PODS:
+  - RegisterTemplateIOS13 (0.1.0)
+
+DEPENDENCIES:
+  - RegisterTemplateIOS13 (~> 0.1)
+
+SPEC REPOS:
+  trunk:
+    - RegisterTemplateIOS13
+
+SPEC CHECKSUMS:
+  RegisterTemplateIOS13: 3b1f19f430db60b541c3c8a93f7a6aaa7c822216
+
+PODFILE CHECKSUM: 78abcdd9d0900c7636bece4ef500a861db95b446
+
+COCOAPODS: 1.10.0
